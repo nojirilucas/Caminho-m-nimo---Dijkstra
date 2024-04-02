@@ -19,7 +19,7 @@ Desenvolva o código de um programa que seja capaz de calcular as distâncias e 
     <td><img src="https://github.com/nojirilucas/Caminho_minimo_Dijkstra/assets/103136574/ad422ef8-1a7a-4377-9b35-1d03f928f7c0" alt="grafo_1-4_t"></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github.com/nojirilucas/Caminho_minimo_Dijkstra/assets/103136574/989dd7ef-42be-4d3d-ab54-d0532ef0c5be" alt="grafo_de_exemplo" style="max-width: 100%; height: auto;"><br>Descrição: Grafo de exemplo</td>
+    <td colspan="2"><img src="https://github.com/nojirilucas/Caminho_minimo_Dijkstra/assets/103136574/989dd7ef-42be-4d3d-ab54-d0532ef0c5be" alt="grafo_de_exemplo" style="max-width: 50%; height: auto;"><br>Descrição: Grafo de exemplo</td>
   </tr>
 </table>
 
