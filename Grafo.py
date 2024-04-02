@@ -26,7 +26,7 @@ def visualizar_grafo(G, menor_caminho=None):
     plt.title('Grafo Direcionado com Pesos')
     plt.show()
 
-def principal():
+def main():
     nome_arquivo = "text"
 
     # Solicita os vértices de origem e destino ao usuário
@@ -43,4 +43,4 @@ def principal():
     print(f"Caminho mínimo de {vertice_origem} para {vertice_destino}: {' -> '.join(map(str, menor_caminho))}")
 
 if __name__ == "__main__":
-    principal()
+    main()
